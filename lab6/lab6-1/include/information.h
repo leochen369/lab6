@@ -1,0 +1,8 @@
+#pragma once
+typedef struct _sperson
+{
+	char name[8];
+	int gender;
+	int age;
+
+}Person;
